@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-of-Bank-Stock-Prices
+# Exploring the bank stock performance through the financial crisis
 
 Objective:
 Perform EDA on bank stock prices, specifically focusing on the period spanning the financial crisis of 2007–2008 to early 2016. This project aims to enhance visualization and Pandas skills without providing financial advice.
